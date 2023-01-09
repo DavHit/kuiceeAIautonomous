@@ -7,6 +7,6 @@
 
 ---
 
-'''py
+'''python
 
 [asdf]
